@@ -10,3 +10,7 @@ OpenRCT2 is a community mod for Rollercoaster Tycoon 2.
   - Windows: Click the x64 .exe option, unless you know you are on 32 bit Windows or ARM
 
 ## Server Info
+To play multiplayer, select the third option from the main menu. You can join someone else's server or start your own
+
+### My Server Info
+I am not currently running my server, but when I create a persistent game, I will update here. If you are interested to play together, hit me up on Discord (folahey).
